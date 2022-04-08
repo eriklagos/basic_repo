@@ -1,2 +1,13 @@
 Este es un archivo de prueba.
 Ahora estoy ingresando algunos cambios en este archivo - 21:48
+Pasos que seguí
+1.- Crear carpeta local
+2.- Dentro de la carpeta hacer Git Bash Here
+3.- En la Terminal inicializar con $git init
+4.- Crear un repositorio remoto en GitHub
+5.- Crear un archivo LEEME.txt en la carpeta local y lo abrí con Visual Studio
+6.- Hacer un git add . en la Terminal
+7.- Hacer un $ git remote add origin https://github.com/eriklagos/basic_repo.git
+8.- $ git branch -M main
+9.- $ git push -u origin main
+10.- $ git commit
